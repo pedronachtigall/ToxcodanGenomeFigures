@@ -1,0 +1,8 @@
+DS	Annotation	Number
+Genome	Toxin	84
+DB	Toxin	40
+DB	PutativeToxin	1
+DBTR	Toxin	62
+DBTR	PutativeToxin	24
+TR	Toxin	37
+TR	PutativeToxin	23

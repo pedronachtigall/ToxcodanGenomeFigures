@@ -1,0 +1,14 @@
+Toxin	ratio	DS
+NaTx	1	Genome
+NaTx	0.14	DB
+NaTx	0.53	DBTR
+NaTx	0.55	TR
+KTx	0.14	DB
+KTx	0.55	DBTR
+KTx	0.61	TR
+CaTx	0	DB
+CaTx	0.5	DBTR
+CaTx	0.5	TR
+CITx	0	DB
+CITx	0.2	DBTR
+CITx	0.2	TR
